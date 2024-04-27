@@ -8,7 +8,7 @@
 </div> -->
 
 <!-- [![ZikaZaki's GitHub Banner](./assets/LinkedInCover.png)](https://github.com/zikazaki/zikazaki) -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=husamnadeesh&left_color=gray&right_color=648473)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=husamnadeesh&left_color=gray&right_color=648473)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=648473)](https://twitter.com/husamnadeesh)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=648473)](https://www.linkedin.com/in/husamnadeesh)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=648473)](https://codepen.io/husamnadeesh)
